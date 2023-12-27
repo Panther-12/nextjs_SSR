@@ -1,0 +1,35 @@
+{
+  "name": "nextssr",
+  "version": "1.0.0",
+  "description": "Server side rendering with react Next js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "next start",
+    "build": "next build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Panther-12/nextjs_SSR.git"
+  },
+  "keywords": [
+    "SSR",
+    "Server",
+    "side",
+    "rendering",
+    "react",
+    "next",
+    "js"
+  ],
+  "author": "Nimrod Nyongesa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Panther-12/nextjs_SSR/issues"
+  },
+  "homepage": "https://github.com/Panther-12/nextjs_SSR#readme",
+  "dependencies": {
+    "next": "^14.0.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
